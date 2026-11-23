@@ -1,0 +1,9 @@
+torch>=2.4
+transformers>=5.0
+safetensors
+tokenizers
+# değerlendirme için
+datasets
+pyarrow
+huggingface_hub
+lm-eval>=0.4

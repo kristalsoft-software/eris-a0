@@ -90,7 +90,7 @@ Apache-2.0. See [LICENSE](LICENSE). Datasets used for training and evaluation ke
 ## Contact
 
 Kristalsoft offers task-specific fine-tuning, on-premise deployment and custom language model development.
-E-mail: destek@kristalsoft.com.tr
+E-mail: support@kristalsoft.com.tr
 
 ---
 
@@ -130,4 +130,4 @@ print(model.chat(tokenizer, "Türkiye'nin başkenti neresidir?"))
 
 ### İletişim
 
-Göreve özel ince ayar, kurum içi kurulum ve dil modeli geliştirme için: destek@kristalsoft.com.tr
+Göreve özel ince ayar, kurum içi kurulum ve dil modeli geliştirme için: support@kristalsoft.com.tr
